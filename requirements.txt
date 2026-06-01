@@ -1,0 +1,26 @@
+# ============================================================
+# requirements.txt  —  DeepFace version (no dlib needed)
+# ============================================================
+# Install with:
+#   pip install -r requirements.txt
+
+# Face recognition (DeepFace — no compilation needed!)
+deepface
+
+# Deep learning backend for DeepFace
+tf-keras
+
+# OpenCV — webcam + face detection + drawing
+opencv-python
+
+# Numerical computing
+numpy
+
+# Image processing
+Pillow
+
+# Data analysis — CSV read/write/filter
+pandas
+
+# Modern Tkinter themes
+ttkthemes
