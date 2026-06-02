@@ -4,7 +4,7 @@ A professional, real-time attendance management system built with Python, OpenCV
   
 ---     
 ## 📸 Features     
-
+  
 | Feature | Description |
 |---|---|
 | 🎥 Real-time Recognition | Detects and recognizes faces live via webcam |
