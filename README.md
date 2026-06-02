@@ -3,7 +3,7 @@
 A professional, real-time attendance management system built with Python, OpenCV, and the `face_recognition` library. Detects and recognizes student faces through a webcam and automatically marks attendance — no manual entry required. 
   
 ---     
-## 📸 Features   
+## 📸 Features     
 
 | Feature | Description |
 |---|---|
