@@ -10,7 +10,7 @@ A professional, real-time attendance management system built with Python, OpenCV
 | 🎥 Real-time Recognition | Detects and recognizes faces live via webcam |
 | 👤 Student Registration | Register students with name + photo upload |
 | 📋 Attendance Tracking | Auto-marks attendance once per day per student |
-| 🔍 Search & Filter | Search records by student name or date |
+| 🔍 Search & Filter | Search records by student name or date |   
 | 📊 Statistics Dashboard | Per-student attendance %, present/absent counts |
 | 🚫 Duplicate Prevention | Same student cannot be marked twice in one day |
 | 💯 Confidence Score | Shows recognition confidence % on screen |
